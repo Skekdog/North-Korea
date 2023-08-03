@@ -1,8 +1,8 @@
 # Credits
 ## Icons
-Statue of the Leader - Statue by DC Icons from [Noun Project](https://thenounproject.com/browse/icons/terms/statue) (CC BY 3.0)
+Statue of the Leader - Statue by Vectors Point from [Noun Project](https://thenounproject.com/browse/icons/terms/statue) (CC BY 3.0)
 
-North Korea - By [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com
+North Korea - Favorite by Jasfart from [Noun Project](https://thenounproject.com/browse/icons/terms/favorite) (CC BY 3.0)
 
 ## Music
 Peace - [DPRK National Anthem](https://www.youtube.com/watch?v=VovFaEd-Kp0)
