@@ -7,6 +7,6 @@
 	"culture":5,
 	"uniqueTo":"North Korea",
 	"replaces":"Monument",
-	"uniques":["Destroyed when the city is captured"]
+	"uniques":["Destroyed when the city is captured","[+10]% growth [in this city]"]
 }
 ]
