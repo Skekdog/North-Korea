@@ -1,0 +1,20 @@
+
+game.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Statue of the Leader
+  rotate: false
+  xy: 4, 4
+  size: 584, 584
+  orig: 584, 584
+  offset: 0, 0
+  index: -1
+NationIcons/North Korea
+  rotate: false
+  xy: 596, 163
+  size: 424, 425
+  orig: 424, 425
+  offset: 0, 0
+  index: -1
