@@ -1,36 +1,36 @@
 [
 {
-	"name":"North Korea",
-	"leaderName":"Kim Jong Un",
-	"adjective":"North Korean",
-	"preferred":"Domination",
+	"name": "North Korea",
+	"leaderName": "Kim Jong Un",
+	"adjective": "North Korean",
+	"preferred": "Domination",
 
-	"startIntroPart1":"Glory to you, Dear Leader Kim Jong Un, leader of the one true Korea! The Democratic People's Republic of Korea is a young nation, established after the fall of the Japanese Empire in World War II. In spite of terrible famine in the 1990s, your people persevere, and under your leadership have seen great economic success.",
-	"startIntroPart2":"Dear Leader Kim, the Korean people look to you for peaceful unification and success. They wish for you to bring your nation wealth and prestige, in face of international condemnation and sanctions. Can you build a glorious nation that stands the assault of the ages?",
+	"startIntroPart1": "Glory to you, Dear Leader Kim Jong Un, leader of the one true Korea! The Democratic People's Republic of Korea is a young nation, established after the fall of the Japanese Empire in World War II. In spite of terrible famine in the 1990s, your people persevere, and under your leadership have seen great economic success.",
+	"startIntroPart2": "Dear Leader Kim, the Korean people look to you for peaceful unification and success. They wish for you to bring your nation wealth and prestige, in the face of international condemnation and sanctions. Can you build a glorious nation that stands the assault of the ages?",
 
-	"declaringWar":"You have strayed from the word of the leader, now you must perish!",
-	"attacked":"We are a peace-seeking nation... your actions are in poor taste.",
-	"defeated":"I only wish I could've nuked you some more.",
-	"introduction":"In the name of the true Korea, I bid you welcome.",
+	"declaringWar": "You have strayed from the word of the leader, now you must perish!",
+	"attacked": "We are a peace-seeking nation... your actions are in poor taste.",
+	"defeated": "I only wish I could've nuked you some more.",
+	"introduction": "In the name of the true Korea, I bid you welcome.",
 
-	"neutralHello":"Good day.",
-	"hateHello":"The bombs are being prepared.",
-	"tradeRequest":"We are for once not embargoed by everyone - please accept this deal.",
+	"neutralHello": "Good day.",
+	"hateHello": "The bombs are being prepared.",
+	"tradeRequest": "We are for once not embargoed by everyone - please accept this deal.",
 
-	"outerColor":[0,0,193],
-	"innerColor":[244,51,51],
+	"outerColor": [0,0,193],
+	"innerColor": [244,51,51],
 
-	"uniqueName":"Glory to the Dear Leader",
-	"uniques":[
-		"[+60]% growth [in capital]",
-		"[-80]% growth [in all cities]",
+	"uniqueName": "Glory to the Dear Leader",
+	"uniques": [
+		"[+10]% growth [in capital]",
+		"[-150]% growth [in all cities]",
 		"[+200]% Production when constructing [Missile] units [in all cities]",
 		"[1] free [Nuclear Missile] units appear <upon founding a city>",
-		"[+1 Production] from [Iron] tiles",
-		"[+1 Production] from [Coal] tiles",
+		"[+1 Production] from every [Iron]",
+		"[+1 Production] from every [Coal]",
 	],
 	
-	"cities":["Pyongyang","Hamhung","Chongjin","Nampo","Wonsan","Sinuiju","Tanchon","Kaechon","Kaesong","Sariwon","Sunchon","Pyongsong","Haeju","Kanggye","Anju","Tokchon","Kimchaek","Rason","Kusong","Hyesan","Chongju","Huichon","Hoeryong","Sinpo","Songrim","Munchon","Manpo","Samjiyon"],
-	"spyNames":["Ji-u","Min-Jun","Ihl","Kim","Il-Sun","Song-Taek","Park","Seo-Yun","Seo-Yeon","Ye-Jun"]
+	"cities": ["Pyongyang","Hamhung","Chongjin","Nampo","Wonsan","Sinuiju","Tanchon","Kaechon","Kaesong","Sariwon","Sunchon","Pyongsong","Haeju","Kanggye","Anju","Tokchon","Kimchaek","Rason","Kusong","Hyesan","Chongju","Huichon","Hoeryong","Sinpo","Songrim","Munchon","Manpo","Samjiyon"],
+	"spyNames": ["Ji-u","Min-Jun","Ihl","Kim","Il-Sun","Song-Taek","Park","Seo-Yun","Seo-Yeon","Ye-Jun"]
 }
 ]
