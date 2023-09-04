@@ -17,17 +17,17 @@
 	"hateHello": "The bombs are being prepared.",
 	"tradeRequest": "We are for once not embargoed by everyone - please accept this deal.",
 
-	"outerColor": [0,0,193],
-	"innerColor": [244,51,51],
+	"outerColor": [244,51,51],
+	"innerColor": [0,0,193],
 
 	"uniqueName": "Glory to the Dear Leader",
 	"uniques": [
-		"[+10]% growth [in capital]",
+		"[+50]% growth [in capital]",
 		"[-150]% growth [in all cities]",
 		"[+200]% Production when constructing [Missile] units [in all cities]",
 		"[1] free [Nuclear Missile] units appear <upon founding a city>",
 		"[+1 Production] from every [Iron]",
-		"[+1 Production] from every [Coal]",
+		"[+1 Production] from every [Coal]"
 	],
 	
 	"cities": ["Pyongyang","Hamhung","Chongjin","Nampo","Wonsan","Sinuiju","Tanchon","Kaechon","Kaesong","Sariwon","Sunchon","Pyongsong","Haeju","Kanggye","Anju","Tokchon","Kimchaek","Rason","Kusong","Hyesan","Chongju","Huichon","Hoeryong","Sinpo","Songrim","Munchon","Manpo","Samjiyon"],

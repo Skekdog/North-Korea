@@ -3,7 +3,7 @@
 	"name":"Statue of the Leader",
 	"cost":40,
 	"maintenance":0,
-	"happiness":5,
+	"happiness":1,
 	"culture":5,
 	"uniqueTo":"North Korea",
 	"replaces":"Monument",
